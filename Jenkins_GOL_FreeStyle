@@ -45,7 +45,6 @@ Commit message: "Merge pull request #143 from LuuKhang/documentation"
 [INFO] ------------------------------------------------------------------------
 [INFO] 
 [8mha:////4GHthX6F0FqS0q7RI5BkXJg8j+u9xd+Wt/oaSwsfAiK8AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ gameoflife ---
-[INFO] Deleting C:\Program Files (x86)\Jenkins\workspace\Game_of_Life_Default\target
 [INFO] 
 [8mha:////4GHthX6F0FqS0q7RI5BkXJg8j+u9xd+Wt/oaSwsfAiK8AAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-enforcer-plugin:1.0:enforce (enforce-versions) @ gameoflife ---
 [INFO] 
@@ -86,15 +85,15 @@ Tests run: 0, Failures: 0, Errors: 0, Skipped: 0
 [INFO] ------------------------------------------------------------------------
 [INFO] Reactor Summary:
 [INFO] 
-[INFO] gameoflife ......................................... FAILURE [  8.031 s]
+[INFO] gameoflife ......................................... FAILURE [  4.843 s]
 [INFO] gameoflife-build ................................... SKIPPED
 [INFO] gameoflife-core .................................... SKIPPED
 [INFO] gameoflife-web ..................................... SKIPPED
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD FAILURE
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time: 9.749 s
-[INFO] Finished at: 2017-11-15T15:51:31+11:00
+[INFO] Total time: 6.016 s
+[INFO] Finished at: 2017-11-16T13:47:01+11:00
 [INFO] Final Memory: 15M/90M
 [INFO] ------------------------------------------------------------------------
 [8mha:////4KRpM5WfCrIR/G2ee9kSOna4b4oTHTcz9Jd8HtmgTz6PAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEuhYV5Rf55ZekOlc7RKnPKH7IxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAACsNFCqYAAAAA==[0m[ERROR] Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:2.11:test (unit-tests) on project gameoflife: Error occured in starting fork, check output in log -> [Help 1]
