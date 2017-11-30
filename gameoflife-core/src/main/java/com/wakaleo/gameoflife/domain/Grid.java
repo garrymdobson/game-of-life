@@ -10,6 +10,9 @@ import static com.wakaleo.gameoflife.domain.Cell.LIVE_CELL;
  * Grid.java
  * Grid object class, containing information on a collection of cells
  */
+
+//   add a comment for testing Jenkins - GMD 30Nov17 
+
 public class Grid {
 
     private static final int DEFAULT_ROW_COUNT = 3;
