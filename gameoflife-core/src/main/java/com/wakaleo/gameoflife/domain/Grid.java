@@ -15,6 +15,7 @@ import static com.wakaleo.gameoflife.domain.Cell.LIVE_CELL;
 //   add a second comment for testing Jenkins - GMD 30Nov17
 //   add a third comment for testing Jenkins - GMD 1Dec17
 //   add a fourth comment for testing Jenkins - GMD 1Dec17
+//   add a fifth comment for testing Jenkins - GND 1Dec17
 
 public class Grid {
 
