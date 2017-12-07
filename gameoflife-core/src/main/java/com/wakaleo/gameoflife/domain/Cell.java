@@ -9,7 +9,8 @@ package com.wakaleo.gameoflife.domain;
  */
 // add a comment for testing Jenkins        - GMD 6Dec17
 // add a second comment for testing Jenkins - GMD 7Dec17
-// 
+// add a third comment for testing Jenkins  - GMD 8Dec17
+//
 public enum Cell {
 	// Symbols to represent cell status
     LIVE_CELL("*"), DEAD_CELL(".");
