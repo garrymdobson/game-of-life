@@ -7,7 +7,8 @@ package com.wakaleo.gameoflife.domain;
  * Cell.java
  * Cell object class, contains information on individual cells (positions) in the grid
  */
-// add a comment for testing Jenkins - GMD 6Dec17
+// add a comment for testing Jenkins        - GMD 6Dec17
+// add a second comment for testing Jenkins - GMD 7Dec17
 // 
 public enum Cell {
 	// Symbols to represent cell status
