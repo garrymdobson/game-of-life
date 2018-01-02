@@ -11,6 +11,8 @@ import static com.wakaleo.gameoflife.domain.Cell.DEAD_CELL;
  * A universe is a succession of grids over time.
  * Each new grid is generated from the previous one using the rules of the Game Of Life.
  */
+// Changed Universe.java the first time for testing Jenkins freestyle Web-hook - GMD 2Jan18
+//
 public class Universe {
 
     private static final String NEW_LINE = System.getProperty("line.separator");
