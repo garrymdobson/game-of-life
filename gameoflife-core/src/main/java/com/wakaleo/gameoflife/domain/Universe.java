@@ -18,6 +18,7 @@ import static com.wakaleo.gameoflife.domain.Cell.DEAD_CELL;
 // Changed Universe.java the fifth time for testing Jenkins freestyle Web-hook   - GMD 4Jan18
 // Changed Universe.java the sixth time for testing Jenkins freestyle Web-hook   - GMD 4Jan18
 // Changed Universe.java the seventh time for testing Jenkins freestyle Web-hook - GMD 4Jan18
+// Changed Universe.java the eighth time for testing Jenkins freestyle Web-hook  - GMD 6Jan18
 //
 public class Universe {
 
