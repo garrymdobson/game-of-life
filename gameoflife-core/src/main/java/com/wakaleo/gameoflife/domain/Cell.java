@@ -9,9 +9,10 @@ package com.wakaleo.gameoflife.domain;
  */
 // add a comment        for testing Jenkins - GMD  6Dec17
 // add a second comment for testing Jenkins - GMD  7Dec17
-// add a third comment  for testing Jenkins - GMD  8Dec17
+// add a third  comment for testing Jenkins - GMD  8Dec17
 // add a fourth comment for testing Jenkins - GMD 29Dec17
-// add a fifth comment  for testing Jenkins - GMD 29Dec17
+// add a fifth  comment for testing Jenkins - GMD 29Dec17
+// add a sixth  comment for testing Jenkins - GMD 23Jan18
 //
 public enum Cell {
 	// Symbols to represent cell status
