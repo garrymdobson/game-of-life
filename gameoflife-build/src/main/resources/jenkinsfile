@@ -1,0 +1,15 @@
+pipeline 
+   { 
+      agent any	
+      stages 
+         { 
+            stage('Build')
+               {
+                   steps  
+                   {
+                       echo 'Building Game of Life triggered by polling GitHub'
+                       sh 'mvn -f /home/garrymdobson/game-of-life/pom.xml clean package' 
+                   }
+               } 
+         }        
+   }
