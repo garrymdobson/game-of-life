@@ -18,7 +18,8 @@ import static com.wakaleo.gameoflife.domain.Cell.LIVE_CELL;
 //   add a fifth comment   for testing Jenkins - GND 1Dec17
 //   add a sixth comment   for testing Jenkins - GMD 1Dec17
 //   add a seventh comment for testing Jenkins - GMD 6Dec17
-
+//   add an eighth comment for testing Jenkins - GMD 23Jan18
+//
 public class Grid {
 
     private static final int DEFAULT_ROW_COUNT = 3;
