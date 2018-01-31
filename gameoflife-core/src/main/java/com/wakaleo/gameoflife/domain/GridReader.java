@@ -10,6 +10,9 @@ import java.util.List;
  * GridReader.java
  * Class for converting inputted string of state symbols into array of cell objects
  */
+//
+// add a comment for testing Jenkins pipeline Web-hook - GMD 31Jan18
+//
 public class GridReader {
 
     private static final String NEW_LINE = System.getProperty("line.separator");
