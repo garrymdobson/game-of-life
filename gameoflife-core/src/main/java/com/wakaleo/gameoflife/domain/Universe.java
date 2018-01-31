@@ -11,14 +11,15 @@ import static com.wakaleo.gameoflife.domain.Cell.DEAD_CELL;
  * A universe is a succession of grids over time.
  * Each new grid is generated from the previous one using the rules of the Game Of Life.
  */
-// Changed Universe.java the first time for testing Jenkins freestyle Web-hook   - GMD 2Jan18
-// Changed Universe.java the second time for testing Jenkins freestyle Web-hook  - GMD 3Jan18
-// Changed Universe.java the third time for testing Jenkins freestyle Web-hook   - GMD 4Jan18 
-// Changed Universe.java the fourth time for testing Jenkins freestyle Web-hook  - GMD 4Jan18
-// Changed Universe.java the fifth time for testing Jenkins freestyle Web-hook   - GMD 4Jan18
-// Changed Universe.java the sixth time for testing Jenkins freestyle Web-hook   - GMD 4Jan18
-// Changed Universe.java the seventh time for testing Jenkins freestyle Web-hook - GMD 4Jan18
-// Changed Universe.java the eighth time for testing Jenkins freestyle Web-hook  - GMD 6Jan18
+// add a         comment for testing Jenkins freestyle Web-hook - GMD 2Jan18
+// add a second  comment for testing Jenkins freestyle Web-hook - GMD 3Jan18
+// add a third   comment for testing Jenkins freestyle Web-hook - GMD 4Jan18 
+// add a fourth  comment for testing Jenkins freestyle Web-hook - GMD 4Jan18
+// add a fifth   comment for testing Jenkins freestyle Web-hook - GMD 4Jan18
+// add a sixth   comment for testing Jenkins freestyle Web-hook - GMD 4Jan18
+// add a seventh comment for testing Jenkins freestyle Web-hook - GMD 4Jan18
+// add an eighth comment for testing Jenkins freestyle Web-hook - GMD 6Jan18
+// add a ninth   comment for testing Jenkins pipeline  Web-hook - GMD 31Jan18 
 //
 public class Universe {
 
