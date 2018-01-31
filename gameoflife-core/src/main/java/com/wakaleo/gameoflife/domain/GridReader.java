@@ -11,7 +11,8 @@ import java.util.List;
  * Class for converting inputted string of state symbols into array of cell objects
  */
 //
-// add a comment for testing Jenkins pipeline Web-hook - GMD 31Jan18
+// add a        comment for testing Jenkins pipeline Web-hook - GMD 31Jan18
+// add a second comment for testing Jenkins pipeline Web-hook - GMD 31Jan18
 //
 public class GridReader {
 
