@@ -16,6 +16,7 @@ import java.util.List;
 // add a third  comment for testing Jenkins pipeline Web-hook - GMD 1Feb18
 // add a fourth comment for testing Jenkins pipeline Web-hook - GMD 6Feb18
 // add a fifth  comment for testing Jenkins pipeline Web-hook - GMD 6Feb18
+// add a sixth  comment for testing Jenkins pipeline Web-hook - GMD 7Feb18
 //
 public class GridReader {
 
