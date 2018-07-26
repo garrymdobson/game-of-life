@@ -8,7 +8,8 @@ package com.wakaleo.gameoflife.domain;
  * Class for easy printing/showing of the grid contents
  */
 //
-// add a comment for setting up "gogs" - GMD 26July18
+// add a        comment for setting up "gogs" - GMD 26July18
+// add a second comment for setting up "gogs" - GMD 26July18
 // 
 public class GridWriter {
 
