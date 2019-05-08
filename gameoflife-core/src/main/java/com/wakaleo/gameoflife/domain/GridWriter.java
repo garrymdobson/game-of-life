@@ -10,7 +10,8 @@ package com.wakaleo.gameoflife.domain;
 //
 // add a        comment for setting up "gogs" - GMD 26July18
 // add a second comment for setting up "gogs" - GMD 26July18
-// 
+// add a third  comment for testing Jenkins pipeline web-hook in AWS -  GMD 8May19
+//
 public class GridWriter {
 
     private static final String LINE_SEPARATOR = System.getProperty("line.separator");
