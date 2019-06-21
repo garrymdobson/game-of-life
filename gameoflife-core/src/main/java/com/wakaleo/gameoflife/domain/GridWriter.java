@@ -8,12 +8,13 @@ package com.wakaleo.gameoflife.domain;
  * Class for easy printing/showing of the grid contents
  */
 //
-// add a        comment for setting up "gogs" - GMD 26July18
-// add a second comment for setting up "gogs" - GMD 26July18
-// add a third  comment for testing Jenkins pipeline web-hook in AWS - GMD 8May19
-// add a fourth comment for testing Jenkins pipeline web-hook in AWS - GMD 13June19
-// add a fifth  comment for testing Jenkins pipeline web-hook in AWS - GMD 13June19
-// add a sixth  comment for testing Jenkins pipeline web-hook in AWS - GMD 20June19
+// add a         comment for setting up "gogs" - GMD 26July18
+// add a second  comment for setting up "gogs" - GMD 26July18
+// add a third   comment for testing Jenkins pipeline web-hook in AWS - GMD 8May19
+// add a fourth  comment for testing Jenkins pipeline web-hook in AWS - GMD 13June19
+// add a fifth   comment for testing Jenkins pipeline web-hook in AWS - GMD 13June19
+// add a sixth   comment for testing Jenkins pipeline web-hook in AWS - GMD 20June19
+// add a seventh comment for testing Jenkins pipeline web-hook in AWS - GMD 21June19
 //
 public class GridWriter {
 
