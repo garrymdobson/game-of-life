@@ -19,6 +19,7 @@ package com.wakaleo.gameoflife.domain;
 // add a ninth     comment for testing Jenkins pipeline web-hook in AWS - GMD 28June19
 // add a tenth     comment for testing Jenkins pipeline web-hook in AWS - GMD 28June19
 // add an eleventh comment for testing Jenkins pipeline web-hook in AWS - GMD 28June19
+// add a twelfth   comment for testing Jenkins pipeline web-hook in AWS - GMD 10July19
 //
 public class GridWriter {
 
