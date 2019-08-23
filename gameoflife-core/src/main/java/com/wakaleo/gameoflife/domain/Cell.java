@@ -18,7 +18,8 @@ package com.wakaleo.gameoflife.domain;
 // add a ninth     comment for testing Jenkins - GMD 24Jan18
 // add a tenth     comment for testing Jenkins - GMD 30Jan18  
 // add an eleventh comment for testing Jenkins pipeline web-hook in AWS - GMD 23Aug19
-//
+// add a twelfth   comment for testing Jenkins pipeline web-hook in AWS - GMD 23Aug19
+// 
 public enum Cell {
 	// Symbols to represent cell status
     LIVE_CELL("*"), DEAD_CELL(".");
