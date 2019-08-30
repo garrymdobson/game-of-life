@@ -22,6 +22,7 @@ package com.wakaleo.gameoflife.domain;
 // add a thirteenth comment for testing Jenkins pipeline web-hook in AWS - GMD 29Aug19
 // add a fourteenth comment for testing Jenkins pipeline web-hook in AWS - GMD 29Aug19
 // add a fifteenth  comment for testing Jenkins pipeline web-hook in AWS - GMD 30Aug19
+// add a sixteenth  comment for testing Jenkins pipeline web-hook in AWS - GMD 30Aug19
 //
 public enum Cell {
 	// Symbols to represent cell status
