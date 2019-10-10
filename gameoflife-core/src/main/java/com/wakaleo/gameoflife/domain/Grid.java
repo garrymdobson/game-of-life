@@ -11,18 +11,19 @@ import static com.wakaleo.gameoflife.domain.Cell.LIVE_CELL;
  * Grid object class, containing information on a collection of cells
  */
 
-//   add a           comment for testing Jenkins - GMD 30Nov17 
-//   add a second    comment for testing Jenkins - GMD 30Nov17
-//   add a third     comment for testing Jenkins - GMD 1Dec17
-//   add a fourth    comment for testing Jenkins - GMD 1Dec17
-//   add a fifth     comment for testing Jenkins - GND 1Dec17
-//   add a sixth     comment for testing Jenkins - GMD 1Dec17
-//   add a seventh   comment for testing Jenkins - GMD 6Dec17
-//   add an eighth   comment for testing Jenkins - GMD 23Jan18
-//   add a ninth     comment for testing Jenkins - GMD 24Jan18
-//   add a tenth     comment for testing Jenkins - GMD 24Jan18
-//   add an eleventh comment for testing Jenkins pipeline web-hook in AWS - GMD 20Sept19
-//   add a twelfth   comment for testing Jenkins pipeline web-hook in AWS - GMD 20Sept19
+//   add a            comment for testing Jenkins - GMD 30Nov17 
+//   add a second     comment for testing Jenkins - GMD 30Nov17
+//   add a third      comment for testing Jenkins - GMD 1Dec17
+//   add a fourth     comment for testing Jenkins - GMD 1Dec17
+//   add a fifth      comment for testing Jenkins - GND 1Dec17
+//   add a sixth      comment for testing Jenkins - GMD 1Dec17
+//   add a seventh    comment for testing Jenkins - GMD 6Dec17
+//   add an eighth    comment for testing Jenkins - GMD 23Jan18
+//   add a ninth      comment for testing Jenkins - GMD 24Jan18
+//   add a tenth      comment for testing Jenkins - GMD 24Jan18
+//   add an eleventh  comment for testing Jenkins pipeline web-hook in AWS - GMD 20Sept19
+//   add a twelfth    comment for testing Jenkins pipeline web-hook in AWS - GMD 20Sept19
+//   add a thirteenth comment for testing Jenkins pipeline web-hook in AWS - GMD 10Oct19
 //
 public class Grid {
 
